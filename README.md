@@ -11,9 +11,10 @@ These games could be used in the classroom as a student learning activity, in wo
 
 In this repository you can download the .pdf files to create this game yourself. You should find:
 * Instruction Manual
-* 19 Term Cards
-* 19 Definition Cards
-* 5 blank pairs
+* 24 Term Cards
+* 24 Definition Cards
+* 8 additional Term and Definition cards for large groups, and
+* Templates for your own terms and definitions
 
 ## Rules
 
@@ -26,19 +27,40 @@ This is ideal for groups of 1-8 but could have as many people as can have a disc
 * The teams discuss among its members and matches the terms with their corresponding definitions.
 * The teams that matches all terms the fastest, or identifies most number of correct definitions, wins.
 
-### Go Fish Rules
+### Card Passing Rules
 
 This format is for up to 5 people. Each person starts with 2 term cards and 2 definition cards. 
 * Deal the players their cards as specified above and then shuffle together the rest of the cards into a draw pile.
-* Players take turns around the table. For each turn, a player: Draw a card; Reveal a match, if any; Give a card to the person on their right.
+* Players take turns around the table. For each turn, a player: (1) Draws a card; (2) Reveal a match, if any; (3) Gives a card to the person on their right.
 * A player may only reveal one term-definition match each turn. Once revealed, set the pair aside.
-* The player that has the most pairs matched wins.
+* The player that has the most pairs correctly matched wins. Emphasise how one incorrectly matched pair negatively impacts another pair.
 
 ### Community Rules
 
-This is for up to 38 people. If there are less than 19 players, each person gets a random term and definition card. If there are more than 19 players, each person gets either a term or a definition card. If there are more than 9 players and there is an odd number, one or more players should be given multiple cards.
+This is for up to 48 people. If there are less than 25 players, each person gets a random term and definition card. If there are 25 or more players, each person gets either a term or a definition card at random. If there is an odd number of players, one or more players should be given multiple cards.
 * Deal the players their cards as specified above.
 * The players go around the venue and attempts to locate their card’s partner.
 * Each player should end up with a partner or two, highlighting the collaborative nature of digital preservation.
 * Everyone is a winner in this format, though prizes may be given to the fastest pairs.
+
+### Group Discussion Rules
+
+This is great as a teaching tool. There is no limit to the number of participants in this format. You will need blank cards or pices of paper, and a marker.
+* Pick if you want to use term or definition cards. Set the other set of cards aside.
+* Draw a card and read it out loud to the group.
+* Ask the group to write down the term, if you selected a definition (and vice versa), that they think is most appropriate for your card.
+* Bring all answers together and select the one that you feel best matches your card. The winner gets to keep the card.
+* The person with most cards at the end wins.
+
+## Printing
+
+The cards are made to be printable on A4 sheets. It is recommended that you use 250 gsm or thicker board paper for a better feel. You can also cold laminate the cards or put them in sleeves for durability.
+
+Make sure to match the cards with the right card back. The cards can be distinguished by the "term" or "definition" icons.
+
+## Make your own cards
+
+There is a template available so that you can make your own cards. Terms use Minion Pro size 20 font while definitions use Helvetica size 10 font.
+
+
 
