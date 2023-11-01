@@ -11,9 +11,9 @@ These games could be used in the classroom as a student learning activity, in wo
 
 In this repository you can download the .pdf files to create this game yourself. You should find:
 * Instruction Manual
-* 19 Term Cards
-* 19 Definition Cards
-* 5 blank pairs
+* 24 Term Cards
+* 24 Definition Cards
+* Blank card template
 
 ## Rules
 
@@ -26,7 +26,7 @@ This is ideal for groups of 1-8 but could have as many people as can have a disc
 * The teams discuss among its members and matches the terms with their corresponding definitions.
 * The teams that matches all terms the fastest, or identifies most number of correct definitions, wins.
 
-### Go Fish Rules
+### Card Passing Rules
 
 This format is for up to 5 people. Each person starts with 2 term cards and 2 definition cards. 
 * Deal the players their cards as specified above and then shuffle together the rest of the cards into a draw pile.
@@ -41,4 +41,14 @@ This is for up to 38 people. If there are less than 19 players, each person gets
 * The players go around the venue and attempts to locate their card’s partner.
 * Each player should end up with a partner or two, highlighting the collaborative nature of digital preservation.
 * Everyone is a winner in this format, though prizes may be given to the fastest pairs.
+
+## Printing
+
+The cards are made to be printable on A4 sheets. It is recommended that you use 250 gsm or thicker board paper for a better feel. You can also cold laminate the cards or put them in sleeves for durability.
+
+Make sure to match the cards with the right card back. The cards can be distinguished by the "term" or "definition" icons.
+
+## Make your own cards
+
+
 
