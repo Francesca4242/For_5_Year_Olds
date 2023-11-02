@@ -1,9 +1,9 @@
 # For_5_Year_Olds
 ## Background
 The For 5 Year Olds game series is a series of games meant to introduce basic concepts and practices in different areas of the archival and information professional field to beginners.
-They are essentially flash cards of terms and definitions, the catch being that ChatGPT was asked to generate the definition with the specific requirement that it must be understood by a five year old.
+These are cards of terms and definitions, the catch being that ChatGPT was asked to generate the definition with the specific requirement that it must be understood by a five year old.
 
-So far we have created Digital Preservation for 5 Year Olds, with Archival Theory for 5 Year Olds and Conservation for 5 Year Olds to hopefully be released soon after.
+So far we have created Digital Preservation for 5 Year Olds, with Archives for 5 Year Olds and a Storage Media Expansion pack hopefully be released soon after.
 
 These games could be used in the classroom as a student learning activity, in workshops as an ice breaker, or just for fun!
 
@@ -18,7 +18,7 @@ In this repository you can download the .pdf files to create this game yourself.
 
 ## Rules
 
-There are three rule variations, but do feel free to experiment and suggest more!
+There are four rule variations (but do feel free to experiment and suggest more!)
 
 ### Standard Rules
 
