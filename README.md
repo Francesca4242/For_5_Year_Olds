@@ -52,6 +52,29 @@ This is great as a teaching tool. There is no limit to the number of participant
 * Bring all answers together and select the one that you feel best matches your card. The winner gets to keep the card.
 * The person with most cards at the end wins.
 
+### Management Rules
+
+This is a game all about decision making and you will play collaboratively against the game.
+* Choose someone to go first, this can be done arbitrarily (be the last
+person who ate a banana, wearing the most purple or who has
+worked in an archive job longest)
+* Pick a role card. You are now playing that role!
+* Now pick 5 definition cards from the pack and place them so that
+everyone can see the terms and definitions
+* The person playing first now must rank these five cards in order of
+how they think their character would prioritise these terms from
+highest to lowest. Write them down and don’t show anyone or
+discuss your decision.
+* Next the rest of the players must try and guess what the first person
+put in order based on what they know about their terms and the role.
+* Based on how many you got right take that amount of letters from the
+letter bag. Give the rest of your letters (what you got wrong) to the
+game. You will be playing against ‘the game’.
+* The first team (you or ‘the game’) to spell the word preservation has
+successfully made the right departmental decisions to achieve
+preservation. Keep playing giving each player a turn until the word
+preservation is spelt!
+
 ## Printing
 
 The cards are made to be printable on A4 sheets. It is recommended that you use 250 gsm or thicker board paper for a better feel. You can also cold laminate the cards or put them in sleeves for durability.
